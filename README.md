@@ -10,6 +10,10 @@
 
 Crummy Proxy Checker is an asynchronous proxy checker tool that helps you filter out bad proxies and identify the working ones. It's built using Python and leverages aiohttp for asynchronous HTTP requests.
 
+<p align="center">
+  <img src="./ex.png">
+</p>
+
 ## Features
 
 - Supports SOCKS4, SOCKS5, and HTTP proxies.
